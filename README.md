@@ -2,5 +2,5 @@
 - 👀 I’m interested in front-end web applications
 - 🌱 I’m currently learning html, css, node.js, vue.js
 - 💞️ I’m looking to collaborate on game dev and web apps
-- 📫 How to reach me linkedin.com/walshrandrew
+- 📫 How to reach me: linkedin.com/walshrandrew
 - ⚡ Fun fact: I ride BMX and play guitar.
